@@ -1,0 +1,4 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Fair Colibri
+theme: hugo-PaperMod
