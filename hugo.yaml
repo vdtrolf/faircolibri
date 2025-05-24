@@ -2,3 +2,13 @@ baseURL: https://example.org/
 languageCode: en-us
 title: Fair Colibri
 theme: hugo-PaperMod
+
+params:
+  defaultTheme: dark
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: >-
+      Welcome to my website.      
+  socialIcons:
+    - name: email
+      url: 'mailto:info@faircolibri.com'
