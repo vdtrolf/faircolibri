@@ -6,9 +6,31 @@ theme: hugo-PaperMod
 params:
   defaultTheme: dark
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
+    Title: "The legend of the colibri"
     Content: >-
-      Welcome to my website...      
+      Welcome to Fair Colibri. This sites gives some information about Open-EGIS, the sustainable software architecture.     
   socialIcons:
     - name: email
       url: 'mailto:info@faircolibri.com'
+    - name: instagram
+      url: 'https://www.instagram.com/faircolibri/'
+  label:
+    icon: 'faircolibri-logo.png'
+
+assets:
+  favicon16x16: /assets/favicon-16x16.png
+  favicon32x32: /assets/favicon-32x32.png
+  apple_touch_icon: /assets/apple-touch-icon.png
+
+favicon: favicon.ico
+
+menu:
+  main:
+  - identifier: home
+    name: Home
+    url: /
+    weight: 10
+  - identifier: posts
+    name: Blog
+    url: /posts/
+    weight: 20
