@@ -6,14 +6,42 @@
     <description>Recent content on Fair Colibri</description>
     <generator>Hugo -- 0.147.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 1970 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My first blog post</title>
+      <title>EGIS</title>
       <link>http://localhost:1313/posts/egis-intro/</link>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/egis-intro/</guid>
-      <description>&lt;p&gt;Hello&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;what-is-egis-&#34;&gt;What is EGIS ?&lt;/h1&gt;
+&lt;p&gt;EGIS is an acronym for sustainable software, which means software that is:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ethical&lt;/strong&gt; : using fair solutions for a better world&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Green&lt;/strong&gt; : with minimal impact on the climate&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Inclusive&lt;/strong&gt; : implementing diversity by design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Simple&lt;/strong&gt; : easy to create and maintain&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;ethical-it&#34;&gt;Ethical IT&lt;/h1&gt;
+&lt;p&gt;Big Tech is a major factor of injustice, it undermines democracy and increases the social gap between the wealthiest and the poorest. But Big Tech is not the only Tech and there are multiple ways to reduce the power of the technology giants.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fair colibri</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;our-story&#34;&gt;Our Story&lt;/h1&gt;
+&lt;p&gt;We all are in the midst of a climate and ecological breakdown. We are facing an uncertain future – our world is in crisis and life itself is under threat.&lt;/p&gt;
+&lt;p&gt;There is no time and every single step can make a change: on the street, on the web, and behind that web. At Faircolibri we are experienced IT engineers and we are active for the climate. We want to use that experience to help organisations reduce carbon footprint, and promote via their IT climate justice and inclusivity.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fair colibri</title>
+      <link>http://localhost:1313/posts/fc/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fc/</guid>
+      <description>&lt;h1 id=&#34;what-is-fair-colibri-&#34;&gt;What is Fair Colibri ?&lt;/h1&gt;
+&lt;p&gt;This no-nonsense blog explains how to create software that relies on EGIS principles:
+the architecture, the choices and the technical part&lt;/p&gt;
+&lt;p&gt;The name relies on the legend of the colibri&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
