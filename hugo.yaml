@@ -1,6 +1,6 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: Fair Colibri
+title: "Fair Colibri"
 theme: hugo-PaperMod
 
 params:
@@ -30,11 +30,15 @@ menu:
     name: Home
     url: /
     weight: 10
+  - identifier: egis
+    name: EGIS
+    url: /egis/
+    weight: 20    
   - identifier: posts
     name: Blog
     url: /posts/
-    weight: 20
+    weight: 30
   - identifier: about
     name: About
     url: /about/
-    weight: 30
+    weight: 40
