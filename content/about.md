@@ -8,7 +8,7 @@ ShowToc: true
 
 ![The Fair Colibri Logo](faircolibri-logo-text.png "The Fair Colibri Bird") 
 
-## Our Story
+### Our Story
 
 We all are in the midst of a climate and ecological breakdown. We are facing an uncertain future – our world is in crisis and life itself is under threat. 
 
@@ -16,7 +16,7 @@ There is no time and every single step can make a change: on the street, on the 
 
 The name **"Fair Colibri"** litearlly means **"Fair Hummingbird"** in french and is inspired by the legend of that little bird who decided to save the forest. 
 
-## We are driven by values
+### We are driven by values
 
 Our values ​​are those rules that we consider indisputable, non-negotiable, and that define us:
 * We protect the world of tomorrow
@@ -24,7 +24,7 @@ Our values ​​are those rules that we consider indisputable, non-negotiable, 
 * We accept each human being as she/he/it is
 * We are generous and open
 
-## The Legend of the Hummingbird
+### The Legend of the Hummingbird
 
 One day, a long time ago and in a faraway place, or so the legend goes, there was a huge forest fire that was raging the countryside. All the animals were terrified, running around in circles, screaming, crying and helplessly watching the impending disaster.
 
@@ -34,7 +34,7 @@ After a while, an old grouchy armadillo, annoyed by this ridiculous useless agit
 
 To which the hummingbird replied, _“Could be, but I’m going to do my bit”_.
 
-## A final word
+### A final word
 
 _“Maybe we need to re-engage our smart, energetic youth around the world to be farmers and find fresh, green technologies that will feed the world more fresh greens”_
 
