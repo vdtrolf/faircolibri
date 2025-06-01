@@ -9,7 +9,7 @@ url: /
 ## Welcome to Faircolibri
 
 We are a collective of IT engineers passionate about climate action.  
-Our mission is to help organizations reduce their carbon footprint and promote climate justice and inclusivity through technology.
+Our mission is to help organizations reduce their carbon footprint and promote climate justice and inclusivity through technology..
 
 - 🌱 Sustainable IT solutions
 - 🤝 Justice and inclusivity
