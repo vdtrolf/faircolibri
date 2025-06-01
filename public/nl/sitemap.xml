@@ -2,119 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/nl/posts/egis-intro/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/egis-intro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/posts/egis-intro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/nl/posts/egis-intro/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/nl/posts/fc/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/fc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/posts/fc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/nl/posts/fc/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/nl/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/nl/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/egis/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/egis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/egis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/egis/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/nl/posts/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/nl/posts/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/about/"
-                />
-  </url><url>
     <loc>http://localhost:1313/nl/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/categories/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -122,20 +10,57 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="eo"
+                href="http://localhost:1313/eo/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="nl"
                 href="http://localhost:1313/nl/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/nl/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="http://localhost:1313/eo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/nl/"
                 />
   </url><url>
     <loc>http://localhost:1313/nl/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/tags/"
+                hreflang="eo"
+                href="http://localhost:1313/eo/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"

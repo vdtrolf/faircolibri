@@ -3,6 +3,7 @@ title: "Fair colibri"
 date: 2025-05-25
 draft: false
 ShowToc: true
+slug: FC
 ---
 
 # What is Fair Colibri ?

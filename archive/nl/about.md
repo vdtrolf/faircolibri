@@ -1,7 +1,8 @@
 ---
-title: ""
+title: About
 draft: false
-url: /about/
+url: /nl/about/
+slug: over
 ---
 ### Our Story
 

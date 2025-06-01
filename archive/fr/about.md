@@ -1,7 +1,8 @@
 ---
-title: ""
+title: About
 draft: false
-url: /about/
+url: /fr/about/
+slug: a-propos
 ---
 ### Notre histoire
 

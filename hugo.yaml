@@ -5,10 +5,6 @@ theme: hugo-PaperMod
 
 params:
   defaultTheme: dark
-  homeInfoParams:
-    Title: "The legend of the colibri"
-    Content: >-
-      Welcome to Fair Colibri. This sites gives some information about Open-EGIS, the sustainable software architecture.     
   socialIcons:
     - name: email
       url: 'mailto:info@faircolibri.com'
@@ -17,71 +13,42 @@ params:
   label:
     icon: 'faircolibri-logo.png'
 
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
+disableDefaultLanguageRedirect: false
+disableLanguages: []
+
 languages:
   en:
-    contentDir: content/en
-    languageName: English
-    weight: 10
-    homeInfoParams:
-      Title: "The legend of the colibri"
-      Content: >-
-        Welcome to Fair Colibri. This sites gives some information about Open-EGIS, the sustainable software architecture.     
-    menu:
-      main:
-      - identifier: home
-        name: Home
-        url: /
-        weight: 10
-      - identifier: egis
-        name: EGIS
-        url: /egis/
-        weight: 20    
-      - identifier: posts
-        name: Blog
-        url: /posts/
-        weight: 30
-      - identifier: about
-        name: About
-        url: /about/
-        weight: 40
+    disabled: false
+    languageCode: ""
+    languageDirection: ""
+    languageName: ""
+    title: ""
+    weight: 0
   fr:
-    contentDir: content/fr
-    languageName: Français
-    weight: 20
-    menu:
-      main:
-      - identifier: home
-        name: Home
-        url: /
-        weight: 10
-      - identifier: egis
-        name: EGIS
-        url: /egis/
-        weight: 20    
-      - identifier: about
-        name: A propos
-        url: /about/
-        weight: 40
+    weight: 1
   nl:
-    contentDir: content/nl
-    languageName: Nederlands
+    weight: 2
+  eo:
+    weight: 3
+
+menus:
+  main:
+  - name: Home
+    pageRef: /
+    weight: 10
+  - name: EGIS
+    pageRef: /egis
+    weight: 20
+  - name: Blog
+    pageRef: /posts
     weight: 30
-    menu:
-      main:
-      - identifier: home
-        name: Home
-        url: /
-        weight: 10
-      - identifier: egis
-        name: EGIS
-        url: /egis/
-        weight: 20    
-      - identifier: about
-        name: Over
-        url: /about/
-        weight: 40
+  - name: About
+    pageRef: /about
+    weight: 40
 
-
+ 
 assets:
   favicon16x16: /assets/favicon-16x16.png
   favicon32x32: /assets/favicon-32x32.png
