@@ -1,8 +1,7 @@
 ---
-title: About
+menus: main
+title: "A propos"
 draft: false
-url: /fr/about/
-slug: a-propos
 ---
 ### Notre histoire
 

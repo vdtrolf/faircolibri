@@ -1,7 +1,8 @@
-baseURL: https://example.org/
+baseURL: ""
 languageCode: en-us
 title: "Fair Colibri"
 theme: hugo-PaperMod
+
 
 params:
   defaultTheme: dark
@@ -13,40 +14,33 @@ params:
   label:
     icon: 'faircolibri-logo.png'
 
+sectionPagesMenu: main
+
 defaultContentLanguage: en
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 disableDefaultLanguageRedirect: false
 disableLanguages: []
 
 languages:
   en:
     disabled: false
-    languageCode: ""
+    languageCode: en
     languageDirection: ""
-    languageName: ""
-    title: ""
-    weight: 0
-  fr:
+    languageName: English
     weight: 1
-  nl:
+  fr:
+    disabled: false
+    languageCode: fr
+    languageDirection: ""
+    languageName: Français
     weight: 2
-  eo:
+  nl:
+    disabled: false
+    languageCode: nl
+    languageDirection: ""
+    languageName: Nederlands
     weight: 3
 
-menus:
-  main:
-  - name: Home
-    pageRef: /
-    weight: 10
-  - name: EGIS
-    pageRef: /egis
-    weight: 20
-  - name: Blog
-    pageRef: /posts
-    weight: 30
-  - name: About
-    pageRef: /about
-    weight: 40
 
  
 assets:

@@ -1,8 +1,7 @@
 ---
-title: About
+menus: main
+title: "About"
 draft: false
-url: /about
-slug: about
 ---
 ### Our Story
 

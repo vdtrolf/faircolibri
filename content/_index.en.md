@@ -1,7 +1,8 @@
 ---
-title: Welcome to Faircolibri
+menus: main
+title: Home
 description: IT for climate justice and inclusivity
-url: /
+draft: false
 ---
 
 ![Faircolibri Logo](/images/faircolibri-logo-text-small.png)

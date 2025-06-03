@@ -1,10 +1,9 @@
 ---
+menus: main
 title: EGIS
 date: 2025-05-25
 draft: false
-url: /egis
 ShowToc: true
-slug: Egis
 ---
 ### What is EGIS ?
 EGIS is an acronym for sustainable software, which means software that is:

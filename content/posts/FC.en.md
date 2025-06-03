@@ -1,9 +1,8 @@
 ---
 title: "Fair colibri"
 date: 2025-05-25
-draft: false
+draft: faderlse
 ShowToc: true
-slug: FC
 ---
 
 # What is Fair Colibri ?
