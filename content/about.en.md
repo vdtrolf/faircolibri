@@ -2,16 +2,13 @@
 menus: main
 title: "About"
 draft: false
+weight: 10
 ---
 ### Our Story
 
 We all are in the midst of a climate and ecological breakdown. We are facing an uncertain future – our world is in crisis and life itself is under threat. 
 
 There is no time and every single step can make a change: on the street, on the web, and behind that web. At Faircolibri we are experienced IT engineers and we are active for the climate. We want to use that experience to help organisations reduce carbon footprint, and promote via their IT climate justice and inclusivity.
-
-{{< figure src="/images/faircolibri-logo-text-small.png" width="200">}}
-
-The name **"Fair Colibri"** litearlly means **"Fair Hummingbird"** in french and is inspired by the legend of that little bird who decided to save the forest. 
 
 ### We are driven by values
 
@@ -22,6 +19,10 @@ Our values ​​are those rules that we consider indisputable, non-negotiable, 
 * We are generous and open
 
 ### The Legend of the Hummingbird
+
+{{< figure src="/images/faircolibri-logo-text-small.png" width="200">}}
+
+The name **"Fair Colibri"** litearlly means **"Fair Hummingbird"** in french and is inspired by the legend of that little bird who decided to save the forest:
 
 One day, a long time ago and in a faraway place, or so the legend goes, there was a huge forest fire that was raging the countryside. All the animals were terrified, running around in circles, screaming, crying and helplessly watching the impending disaster.
 

@@ -3,17 +3,18 @@ menus: main
 title: Home
 description: IT pour le climat, la justice et l'inclusivite
 draft: false
+weight: 1
 ---
 
 ![Faircolibri Logo](/images/faircolibri-logo-text-small.png)
 
 ## Bienvenue sur Faircolibri
 
-We are a collective of IT engineers passionate about climate action.  
-Our mission is to help organizations reduce their carbon footprint and promote climate justice and inclusivity through technology..
+Nous sommes un collectif d'ingénieurs informatiques passionnés par l'action climatique.  
+Notre mission est d'aider les organisations à réduire leur empreinte carbone et à promouvoir la justice climatique et l'inclusivité par le biais de la technologie....
 
-- 🌱 Sustainable IT solutions
-- 🤝 Justice and inclusivity
-- 🐦 Inspired by the legend of the hummingbird
+- 🌱 Solutions informatiques durables
+- 🤝 Justice et inclusion
+- 🐦 Inspiré par la légende du colibri
 
-[Learn more about us](/about/)
+[En savoir plus sur nous](/about/)

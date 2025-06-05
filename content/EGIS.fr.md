@@ -4,19 +4,20 @@ title: EGIS
 date: 2025-05-25
 draft: false
 ShowToc: true
+weight: 2
 ---
-### What is EGIS ?
-EGIS is an acronym for sustainable software, which means software that is:
-* **Ethical** : using fair solutions for a better world
-* **Green** : with minimal impact on the climate
-* **Inclusive** : implementing diversity by design
-* **Simple** : easy to create and maintain
+### Qu'est-ce qu'EGIS ?
+EGIS est un acronyme pour logiciel durable, ce qui signifie un logiciel qui est :
+* **Éthique** : utilisant des solutions équitables pour un monde meilleur
+* **Vert** : avec un impact minimal sur le climat
+* **Inclusif** : qui met en œuvre la diversité dès la conception
+* **Simple** : facile à créer et à maintenir
 
 ### Ethical IT
-Big Tech is a major factor of injustice, it undermines democracy and increases the social gap between the wealthiest and the poorest. But Big Tech is not the only Tech and there are multiple ways to reduce the power of the technology giants.
+Les grandes technologies sont un facteur majeur d'injustice, elles sapent la démocratie et creusent le fossé social entre les plus riches et les plus pauvres. Mais la Big Tech n'est pas la seule Tech et il existe de multiples façons de réduire le pouvoir des géants de la technologie.
 
 ### Green IT
-IT produces more greenhouse gases than the aviation industry, and it is growing, notably because of AI. But it is possible to act to reduce the impacts of ITs on our environment and thus apply a form of digital sobriety through eco-responsible behaviors and choices
+L'informatique produit plus de gaz à effet de serre que l'industrie aéronautique, et ce chiffre ne cesse de croître, notamment en raison de l'IA. Mais il est possible d'agir pour réduire les impacts des IT sur notre environnement et ainsi appliquer une forme de sobriété numérique à travers des comportements et des choix éco-responsables
 
-### Inclusive IT
-Inclusion is about taking care of all forms of diversity (racial, gender), but also to take care of disability, as the disability community deserves equal access to websites and online services.  
+#### Inclusive IT
+L'inclusion consiste à prendre en compte toutes les formes de diversité (raciale, de genre), mais aussi à prendre en compte le handicap, car la communauté des personnes handicapées mérite un accès égal aux sites web et aux services en ligne.

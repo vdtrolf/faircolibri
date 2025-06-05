@@ -2,6 +2,7 @@
 menus: main
 title: "A propos"
 draft: false
+weight: 10
 ---
 ### Notre histoire
 
@@ -9,7 +10,6 @@ Nous sommes tous au cœur d'une crise climatique et écologique. Nous sommes con
 
 Le temps presse et chaque geste peut faire changer les choses : dans la rue, sur le web et derrière le web. Chez Faircolibri, nous sommes des ingénieurs informatiques expérimentés et nous sommes actifs pour le climat. Nous voulons utiliser cette expérience pour aider les organisations à réduire leur empreinte carbone et à promouvoir la justice climatique et l'inclusion par le biais de leurs technologies de l'information.
 
-Le nom **« Fair Colibri »** signifie littéralement **« Colibri équitable »** en français et s'inspire de la légende de ce petit oiseau qui décida de sauver la forêt.
 
 ### Nous sommes animés par des valeurs
 
@@ -19,8 +19,11 @@ Nos valeurs sont les règles que nous considérons comme indiscutables, non nég
 * Nous acceptons chaque être humain tel qu'il est
 * Nous sommes généreux et ouverts
 
-
 ### La légende du colibri
+
+{{< figure src="/images/faircolibri-logo-text-small.png" width="200">}}
+
+Le nom **« Fair Colibri »** signifie littéralement **« Colibri équitable »** en français et s'inspire de la légende de ce petit oiseau qui décida de sauver la forêt:
 
 Un jour, il y a bien longtemps et dans une contrée lointaine, c'est du moins ce que dit la légende, un gigantesque feu de forêt ravageait la campagne. Tous les animaux, terrifiés, tournaient en rond, criaient, pleuraient et assistaient impuissants à la catastrophe imminente.
 

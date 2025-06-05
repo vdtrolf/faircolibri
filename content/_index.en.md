@@ -3,6 +3,7 @@ menus: main
 title: Home
 description: IT for climate justice and inclusivity
 draft: false
+weight: 1
 ---
 
 ![Faircolibri Logo](/images/faircolibri-logo-text-small.png)

@@ -1,9 +1,11 @@
 ---
 menus: main
 title: EGIS
+identifier : EGIS
 date: 2025-05-25
 draft: false
 ShowToc: true
+weight: 2
 ---
 ### What is EGIS ?
 EGIS is an acronym for sustainable software, which means software that is:

@@ -25,6 +25,34 @@
 &lt;p&gt;Big Tech is a major factor of injustice, it undermines democracy and increases the social gap between the wealthiest and the poorest. But Big Tech is not the only Tech and there are multiple ways to reduce the power of the technology giants.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Reference</title>
+      <link>//localhost:1313/en/reference/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/reference/</guid>
+      <description>&lt;h3 id=&#34;etical&#34;&gt;Etical&lt;/h3&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;green&#34;&gt;Green&lt;/h3&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;inclusive&#34;&gt;Inclusive&lt;/h3&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/about/</guid>
+      <description>&lt;h3 id=&#34;our-story&#34;&gt;Our Story&lt;/h3&gt;
+&lt;p&gt;We all are in the midst of a climate and ecological breakdown. We are facing an uncertain future – our world is in crisis and life itself is under threat.&lt;/p&gt;
+&lt;p&gt;There is no time and every single step can make a change: on the street, on the web, and behind that web. At Faircolibri we are experienced IT engineers and we are active for the climate. We want to use that experience to help organisations reduce carbon footprint, and promote via their IT climate justice and inclusivity.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Architecture</title>
+      <link>//localhost:1313/en/egis-architecturer/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/egis-architecturer/</guid>
+      <description>&lt;h3 id=&#34;architecture&#34;&gt;Architecture&lt;/h3&gt;</description>
+    </item>
+    <item>
       <title>EGIS</title>
       <link>//localhost:1313/en/posts/egis-intro/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
@@ -41,13 +69,21 @@
 &lt;p&gt;Big Tech is a major factor of injustice, it undermines democracy and increases the social gap between the wealthiest and the poorest. But Big Tech is not the only Tech and there are multiple ways to reduce the power of the technology giants.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>About</title>
-      <link>//localhost:1313/en/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/about/</guid>
-      <description>&lt;h3 id=&#34;our-story&#34;&gt;Our Story&lt;/h3&gt;
-&lt;p&gt;We all are in the midst of a climate and ecological breakdown. We are facing an uncertain future – our world is in crisis and life itself is under threat.&lt;/p&gt;
-&lt;p&gt;There is no time and every single step can make a change: on the street, on the web, and behind that web. At Faircolibri we are experienced IT engineers and we are active for the climate. We want to use that experience to help organisations reduce carbon footprint, and promote via their IT climate justice and inclusivity.&lt;/p&gt;</description>
+      <title>Fair colibri</title>
+      <link>//localhost:1313/en/posts/fc/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/posts/fc/</guid>
+      <description>&lt;h1 id=&#34;what-is-fair-colibri-&#34;&gt;What is Fair Colibri ?&lt;/h1&gt;
+&lt;p&gt;This no-nonsense blog explains how to create software that relies on EGIS principles:
+the architecture, the choices and the technical part&lt;/p&gt;
+&lt;p&gt;The name relies on the legend of the colibri&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Principles</title>
+      <link>//localhost:1313/en/egis-principles/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/egis-principles/</guid>
+      <description>&lt;h2 id=&#34;principles&#34;&gt;Principles&lt;/h2&gt;</description>
     </item>
   </channel>
 </rss>

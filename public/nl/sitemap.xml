@@ -2,23 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/nl/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="//localhost:1313/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="//localhost:1313/nl/categories/"
-                />
-  </url><url>
     <loc>//localhost:1313/nl/</loc>
     <xhtml:link
                 rel="alternate"
@@ -34,6 +17,40 @@
                 rel="alternate"
                 hreflang="nl"
                 href="//localhost:1313/nl/"
+                />
+  </url><url>
+    <loc>//localhost:1313/nl/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="//localhost:1313/nl/about/"
+                />
+  </url><url>
+    <loc>//localhost:1313/nl/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="//localhost:1313/nl/categories/"
                 />
   </url><url>
     <loc>//localhost:1313/nl/tags/</loc>

@@ -2,19 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/fr/egis/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/en/egis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="//localhost:1313/fr/egis/"
-                />
-  </url><url>
     <loc>//localhost:1313/fr/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -33,11 +20,29 @@
                 href="//localhost:1313/fr/"
                 />
   </url><url>
+    <loc>//localhost:1313/fr/egis/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/egis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/egis/"
+                />
+  </url><url>
     <loc>//localhost:1313/fr/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="//localhost:1313/nl/about/"
                 />
     <xhtml:link
                 rel="alternate"
