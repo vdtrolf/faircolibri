@@ -38,5 +38,3 @@ Ce à quoi le colibri répondit : _« Peut-être, mais je vais faire ma part »_
 _"Peut-être devrions-nous réengager nos jeunes intelligents et énergiques dans le monde entier pour qu'ils deviennent des agriculteurs et trouvent de nouvelles technologies vertes qui nourriront le monde de plus de verdure fraîche."_
 
 ELLEN GUSTAFSON
-
-T
